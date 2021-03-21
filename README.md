@@ -4,7 +4,7 @@
 
 ### Projects
 
-- [image-host](image_host)
+- [image-host](https://github.com/fallnx/image-host)
 
 ### Contact
 
