@@ -1,5 +1,7 @@
 ### Hi there, I'm falln 👋
 
+![](https://komarev.com/ghpvc/?username=fallnx) <br/>
+
 #### A developer from the United Kingdom.
 
 ### Projects
@@ -10,12 +12,11 @@
 ### Languages & Skills
 
 - Python 3 
-- HTML5
+- HTML5 / CSS
 - JavaScript
 
 ### Statistics
 
-![](https://komarev.com/ghpvc/?username=fallnx) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=fallnx&count_private=true&show_icons=true&theme=tokyonight) <br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=fallnx&theme=tokyonight)
 
