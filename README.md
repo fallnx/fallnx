@@ -2,11 +2,11 @@
 
 #### A developer from the United Kingdom.
 
-#### Projects
+### Projects
 
 - [image-host](image_host)
 
-#### Contact
+### Contact
 
 - [falln#7488](discord)
 - [fallnx](twitter)
