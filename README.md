@@ -8,8 +8,8 @@
 
 ### Contact
 
-- [falln#7488](discord)
-- [fallnx](twitter)
+- ![Discord](images/discord.png) [falln#7488](https://discord.com/users/818623172412178473)
+- ![Twitter](images/twitter.png) [fallnx](https://twitter.com/fallnx)
 
 ![](https://komarev.com/ghpvc/?username=fallnx) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=fallnx&count_private=true&show_icons=true&theme=tokyonight) <br/>
