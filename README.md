@@ -8,7 +8,7 @@
 
 ### Contact
 
-<img align="left" width="26px" alt="HTML5" src="images/discord.png"/> [falln#7488](https://discord.com/users/818623172412178473) <br/>
+<img align="left" width="26px" alt="HTML5" src="images/discord.png"/> [falln#7488](https://discord.com/users/818623172412178473)
 <img align="left" width="26px" alt="HTML5" src="images/twitter.png"/> [fallnx](https://twitter.com/fallnx)
 
 ![](https://komarev.com/ghpvc/?username=fallnx) <br/>
