@@ -1,4 +1,10 @@
-# <p align="center">👋 Hey, I'm falln</p>
+# <p align="center">👋 Hey, I'm falln</p><br/>
+
+## About
+
+I make software when I can be arsed + sell tokens
+
+## Links
 
 ↳ [Personal Discord](https://discord.com/users/709121953213972551) <br/>
 ↳ [Sales Discord](https://discord.com/users/920084794111557632) <br/>
