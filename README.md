@@ -1,6 +1,6 @@
 # <p align="center">👋 Hey, I'm falln</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=fallnx)
 
 ### About
 
