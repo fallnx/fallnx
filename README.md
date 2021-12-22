@@ -4,7 +4,7 @@
 
 ### About
 
-I make software when I can be arsed + sell tokens
+I make software sometimes
 
 ### Links
 
